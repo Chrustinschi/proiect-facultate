@@ -1,0 +1,4 @@
+ID: 1
+Numele si prenumele transportatorului: Bejan Mihai
+Adresa preluare coletului:  str. Puskin nr. 4 Iasi
+Adresa livrarii pachetului: str. Crianga nr.1 Botosani

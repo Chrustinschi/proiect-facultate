@@ -1,0 +1,3 @@
+ID: 1
+Numele depozitului: Bomba
+Adresa depozitului: str. Stefan cel mare nr. 8 Iasi

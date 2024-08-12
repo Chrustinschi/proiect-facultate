@@ -1,0 +1,6 @@
+ID: 1
+Numele si prenumele livratorului: Mihnia Ioan
+Adresa livratorului: str. Puskin nr. 4 Iasi
+Numele si prenumele destinatar:  Mihnia Ioan
+Adresa destinatar: str. Crianga nr.1 Botosani
+Specificatii: fragil
